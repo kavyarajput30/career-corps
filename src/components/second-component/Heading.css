@@ -1,0 +1,26 @@
+
+#heading h1{
+    color: #202125;
+    font-weight: 500;
+    font-size: 40px;
+    font-family: Poppins;
+    
+    line-height: 60px;
+    
+    /* background-color: seagreen; */
+    width:305px;
+    height: 60px;
+    position: absolute;
+    top:945px;
+    left:520px;
+}
+
+#rectangle-632{
+    width:103px ;
+    height: 17px;
+    background-color: #FFB000;
+    position: absolute;
+    top:1003px;
+    left:604px;
+    opacity: 40%;
+}

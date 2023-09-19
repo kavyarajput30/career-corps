@@ -1,0 +1,53 @@
+#upper-section{
+    display: flex;
+    flex-direction: column;
+}
+#upskill-yourself{
+    width:617px;
+    height: 120px;
+    position: absolute;
+    top:217px;
+    left:433px;
+    text-align: center; 
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 120px;
+}
+#upskill-yourself span{
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 120px;
+}
+#upper-section p{
+    font-family:inter;
+    font-size: 28px;
+    font-weight: 400;
+    color:#E5E7EB;
+    width:860px;
+    height: 78px;
+    position: absolute;
+    top:377px;
+    left:320px;
+    line-height: 38.5px;
+    text-align: center;
+}
+#upper-section button{
+    width: 283px;
+    height: 74px;
+    background-color: #FFB000;
+    position: absolute;
+    top: 505px;
+    left: 615px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    font-size: 24px;
+    font-weight: 500;
+    color: #E5E7EB;
+    line-height: 33.01px;
+    
+}
+
+
+
+

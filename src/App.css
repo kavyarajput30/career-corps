@@ -1,0 +1,18 @@
+#navbar{
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  width:1512px;
+  align-items: center;
+  background: #202125;
+  border:1px solid #ffffff;
+}
+#first_section{
+  width:1512px;
+  height:8001px;
+  background-color: #202125;
+  position: absolute;
+  top:100px;
+
+}
+
