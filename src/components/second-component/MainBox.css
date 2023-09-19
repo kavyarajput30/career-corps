@@ -1,0 +1,15 @@
+.main-box{
+    /* height: 2360px; */
+    position:absolute;
+    /* top:904px; */
+    background-color: #6c2f2f;
+    /* left:35px;   */
+}
+.program-listing{
+    width:1280px;
+    height: 1925px;
+    position: absolute;
+    top:967px;
+    left:116px;
+    background-color: rgb(214, 131, 122);
+}

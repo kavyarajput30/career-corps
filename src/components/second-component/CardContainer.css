@@ -1,0 +1,9 @@
+.card-container{
+    display: flex;
+    width:1280px;
+    height: 455px;
+    position: absolute;
+    top:1087px;
+    left:116px;
+    gap:40px
+}

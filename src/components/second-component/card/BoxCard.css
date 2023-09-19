@@ -1,0 +1,77 @@
+#group-35666{
+ width:341px;
+ height: 117px;
+ position: absolute;
+ top:234px;
+ left:30px;
+}
+#group-35666 #placement{
+    width:171px;
+    height: 56px;
+    position: absolute;
+    top:0px;
+    left:0px;
+    border-radius: 8px;
+    border: 1px solid #E5E7EB;
+    font-size:14.79px;
+    font-weight: 400;
+    line-height: 22.19px;
+    color:#5E6366;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0,0,10,0, #E5E7EB;
+}
+#group-35666 #project{
+    width: 160px;
+    height: 56px;
+    position: absolute;
+    /* top:234px;
+    left:211px; */
+    top:0px;
+    right: 0px;
+    border-radius: 8px;
+    border: 1px solid #E5E7EB;
+    font-size:14.79px;
+    font-weight: 400;
+    line-height: 22.19px;
+    color:#5E6366;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0,0,10,0, #E5E7EB;
+}
+#group-35666 #rating{
+    width:108px;
+    height: 56px;
+    position: absolute;
+    bottom: 0;
+    border-radius: 8px;
+    border: 1px solid #E5E7EB;
+    font-size:14.79px;
+    font-weight: 400;
+    line-height: 22.19px;
+    color:#5E6366;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0,0,10,0, #E5E7EB;
+}
+#group-35666 #study-pace{
+    width:223px;
+    height: 56px;
+    position: absolute;
+    bottom: 0;
+    right:0px;
+    border-radius: 8px;
+    border: 1px solid #E5E7EB;
+    font-size:14.79px;
+    font-weight: 400;
+    line-height: 22.19px;
+    color:#5E6366;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0,0,10,0, #E5E7EB;
+
+}
